@@ -1,0 +1,46 @@
+html body  {
+    width: auto;
+    box-sizing: border-box;
+    font-family:'Titillium Web', sans-serif;
+    height: initial;
+    margin: 50;
+    border: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(../img/Galaxy.jpg);
+    background-repeat: repeat;
+    color:white;
+    font-weight: bold;
+}
+
+h1 {
+    color: #5d7fb9;
+    font-weight: bold;
+}
+
+nav img {
+    height: 100px;
+    width: 100px;
+}
+
+.navbar {
+    background: black;
+}
+
+#gallery {
+    margin-top: 100px;
+    padding-top: 50px;
+}
+
+#gallery img {
+    height: 300px;
+    width: 300px;
+    margin:50px;
+}
+
+footer i {
+    color:#5d7fb9;
+    font-weight: bold;
+}
